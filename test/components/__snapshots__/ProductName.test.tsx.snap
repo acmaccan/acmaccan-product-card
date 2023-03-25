@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Name Should render the component with its custom name 1`] = `
+<span
+  className="productDescription undefined"
+>
+  Custom Name
+</span>
+`;
+
+exports[`Product Name Should render the component with its default name 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug - Without Imagen
+  </span>
+</div>
+`;
